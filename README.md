@@ -6,5 +6,5 @@ DATA: THOMSON REUTERS TEXT RESEARCH COLLECTION "TRC2" (CORPUS OF 1,800,370 NEWS 
 
 DOCUMENTS ARE FILTERED BY A WORD. IN THIS CASE HEADERS THAT CONTAIN "WAR"
 
-Simple bag of words is used with tfdif
+Simple bag of words is used with tfidf
 
